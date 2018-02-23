@@ -1,0 +1,11 @@
+Hard version of fantastic snake vs block game.
+Break a blocks , create your longest snake , enjoy!
+
+Features:
+- new snake skins;
+- new elements in play game window;
+- new challenges and your prize if you can do it!
+- possibility to revive after death
+
+
+You're a Snake VS Block Hard version free

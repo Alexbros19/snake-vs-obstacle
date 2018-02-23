@@ -1,0 +1,461 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1040 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.177 seconds
+Platform assembly: D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Programmes\UNITY5\FingerSwipeMovement - Copy\Snake vs blocks_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.389617 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.006501 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 560.
+Total: 0.647060 ms (FindLiveObjects: 0.085233 ms CreateObjectMapping: 0.052211 ms MarkObjects: 0.487749 ms  DeleteObjects: 0.020973 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.661424 ms
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.513185 ms (FindLiveObjects: 0.063367 ms CreateObjectMapping: 0.066937 ms MarkObjects: 0.309250 ms  DeleteObjects: 0.072292 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449372 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 0.589940 ms (FindLiveObjects: 0.069614 ms CreateObjectMapping: 0.045071 ms MarkObjects: 0.459189 ms  DeleteObjects: 0.015618 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.701056 ms
+
+Unloading 581 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.717567 ms (FindLiveObjects: 0.155294 ms CreateObjectMapping: 0.049533 ms MarkObjects: 0.224909 ms  DeleteObjects: 0.286937 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568520 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 1.332943 ms (FindLiveObjects: 0.111562 ms CreateObjectMapping: 0.129858 ms MarkObjects: 1.050914 ms  DeleteObjects: 0.039269 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.528804 ms
+
+Unloading 581 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.701056 ms (FindLiveObjects: 0.078985 ms CreateObjectMapping: 0.049979 ms MarkObjects: 0.227140 ms  DeleteObjects: 0.344057 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.572090 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 0.627871 ms (FindLiveObjects: 0.070953 ms CreateObjectMapping: 0.046856 ms MarkObjects: 0.493104 ms  DeleteObjects: 0.016511 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.687222 ms
+
+Unloading 581 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.973713 ms (FindLiveObjects: 0.127180 ms CreateObjectMapping: 0.073184 ms MarkObjects: 0.297647 ms  DeleteObjects: 0.473915 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.617161 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 0.852334 ms (FindLiveObjects: 0.104868 ms CreateObjectMapping: 0.072292 ms MarkObjects: 0.649291 ms  DeleteObjects: 0.021419 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.979514 ms
+
+Unloading 581 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.884464 ms (FindLiveObjects: 0.070953 ms CreateObjectMapping: 0.069614 ms MarkObjects: 0.299432 ms  DeleteObjects: 0.443124 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.616268 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 0.816188 ms (FindLiveObjects: 0.066937 ms CreateObjectMapping: 0.069168 ms MarkObjects: 0.656877 ms  DeleteObjects: 0.021419 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.686329 ms
+
+Unloading 581 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 1.051360 ms (FindLiveObjects: 0.120933 ms CreateObjectMapping: 0.141906 ms MarkObjects: 0.364584 ms  DeleteObjects: 0.422597 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.621177 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 560.
+Total: 0.782719 ms (FindLiveObjects: 0.067383 ms CreateObjectMapping: 0.064706 ms MarkObjects: 0.625640 ms  DeleteObjects: 0.023204 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.OnInventoryButtonClick () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.OnInventoryButtonClick () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.OnInventoryButtonClick () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.OnInventoryButtonClick () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InventoryButton.SetSpriteImage (Int32 numberButton, Int32 valueButton) [0x00000] in <filename unknown>:0 
+  at InventoryButton.OnInventoryButtonClick () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.925518 ms
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.487303 ms (FindLiveObjects: 0.054442 ms CreateObjectMapping: 0.050872 ms MarkObjects: 0.308357 ms  DeleteObjects: 0.072738 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.547100 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 1.184789 ms (FindLiveObjects: 0.084787 ms CreateObjectMapping: 0.079878 ms MarkObjects: 0.993794 ms  DeleteObjects: 0.025436 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.717120 ms
+
+Unloading 581 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.975944 ms (FindLiveObjects: 0.130750 ms CreateObjectMapping: 0.086125 ms MarkObjects: 0.309250 ms  DeleteObjects: 0.448925 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b1c -> priority: 1 

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SnakeHead
+  - BlockLine
+  - MenuButton
+  - LimitCollider
+  - InventoryButton
+  - InventoryButton1
+  - InventoryButton2
+  - InventoryButton3
+  - InventoryButton4
+  - InventoryButton5
+  - CurrentSnakeImage
+  - Challenge button
+  - InventoryButton0
+  - InventoryButton6
+  - InventoryButton7
+  - InventoryButton8
+  - InventoryButton9
+  - InventoryButton10
+  - InventoryButton11
+  - InventoryButton12
+  - InventoryButton13
+  - InventoryButton14
+  - InventoryButton15
+  - InventoryButton16
+  - InventoryButton17
+  - InventoryButton18
+  - ChallengeButton1
+  - ChallengeButton2
+  - ChallengeButton3
+  - ChallengeButton4
+  - ChallengeButton5
+  - PrizeButton1
+  - PrizeButton2
+  - PrizeButton3
+  - PrizeButton4
+  - PrizeButton5
+  - ChallengeButton6
+  - ChallengeButton7
+  - ChallengeButton8
+  - ChallengeButton9
+  - ChallengeButton10
+  - ChallengeButton11
+  - ChallengeButton12
+  - ChallengeButton13
+  - ChallengeButton14
+  - ChallengeButton15
+  - ChallengeButton16
+  - ChallengeButton17
+  - ChallengeButton18
+  - PrizeButton6
+  - PrizeButton7
+  - PrizeButton8
+  - PrizeButton9
+  - PrizeButton10
+  - PrizeButton11
+  - PrizeButton12
+  - PrizeButton13
+  - PrizeButton14
+  - PrizeButton15
+  - PrizeButton16
+  - PrizeButton17
+  - PrizeButton18
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LOS
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
